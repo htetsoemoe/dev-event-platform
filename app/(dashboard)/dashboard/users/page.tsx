@@ -3,7 +3,7 @@ import Link from "next/link"
 const Users = () => {
     return (
         <div>
-            <h1>Dashboard Users</h1>
+            <h1>Users</h1>
 
             <ul className="mt-10">
                 <li><Link href="/dashboard/users/1">User 1</Link></li>

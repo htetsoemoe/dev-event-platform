@@ -3,7 +3,7 @@ const UserDetails = async ({ params }: { params: Promise<{ id: string }> }) => {
 
     return (
         <div>
-            <div>Showing details for user #{id}</div>
+            <h1>Showing details for user #{id}</h1>
         </div>
     )
 }
