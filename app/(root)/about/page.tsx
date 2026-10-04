@@ -1,6 +1,8 @@
 import Hello from "@/components/Hello"  
 
 const page = () => {
+  // throw new Error("Not implemented")
+
   console.log(`What type of component am I?`)
 
   return (
